@@ -11,7 +11,7 @@
 // ============================================================================
 // কনফিগারেশন (টোকেন ও রিপোজিটরি নাম)
 // ============================================================================
-const GITHUB_TOKEN = "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";
+//const GITHUB_TOKEN = "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";
 const REPO_NAME = "tahasinhabib56781-netizen";
 
 // ক্যাশ করা ইউজারনেম সংরক্ষণ করতে (বারবার এপিআই কল কমানোর জন্য)

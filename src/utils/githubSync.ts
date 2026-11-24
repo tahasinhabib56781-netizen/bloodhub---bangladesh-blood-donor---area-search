@@ -4,7 +4,7 @@
 
 import { Donor } from "../types";
 
-export const DEFAULT_GITHUB_TOKEN = "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";
+//export const DEFAULT_GITHUB_TOKEN = "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";
 export const DEFAULT_REPO_NAME = "tahasinhabib56781-netizen";
 
 let cachedUsername: string | null = null;
